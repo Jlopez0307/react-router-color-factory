@@ -1,0 +1,19 @@
+.ColorList {
+    border: 1px solid black;
+
+}
+
+.ColorList ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.3em;
+}
+
+.ColorList ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.ColorList ul li a:hover {
+    color: rgb(159, 159, 159);
+}
